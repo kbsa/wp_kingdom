@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mighty Media Cleaner\n"
+"POT-Creation-Date: 2016-08-10 15:29+0430\n"
+"PO-Revision-Date: 2016-08-10 15:29+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mighty-media-cleaner.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-mighty-mc-admin.php:84
+msgid "De-select All"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:85
+#: admin/templates/mighty-admin-result.php:20
+#: admin/templates/mighty-admin-trash.php:42
+msgid "Select All"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:86
+msgid "Yes"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:87
+msgid "No"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:88
+msgid "Do You Want to Delete Selected Image ?"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:89
+msgid "Restore Selected Image From Trash  ?"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:90
+msgid "Move Selected Image To Trash ?"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:91
+msgid "Do You Want To Delete The Backup File ?"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:92
+msgid "no backup files found!"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:93
+msgid "Moving..."
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:94
+#: admin/templates/mighty-admin-result.php:21
+msgid "Move To Trash"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:95
+msgid "Removing..."
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:96
+#: admin/templates/mighty-admin-backup.php:55
+#: admin/templates/mighty-admin-result.php:22
+#: admin/templates/mighty-admin-trash.php:44
+msgid "Remove"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:97
+msgid "Removed!"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:98
+msgid "File Available"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:99
+msgid "No Media Selected !"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:100
+#: admin/templates/mighty-admin-trash.php:43
+msgid "Restore"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:101
+msgid "Restoring"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:102
+msgid "Try Again!"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:171
+msgid "Find where it used"
+msgstr ""
+
+#: admin/class-mighty-mc-admin.php:182 admin/class-mighty-mc-admin.php:183
+msgid "Find usage"
+msgstr ""
+
+#: admin/templates/mighty-admin-backup.php:25
+msgid "Click to Create a New Back Up File"
+msgstr ""
+
+#: admin/templates/mighty-admin-backup.php:30
+#: admin/templates/mighty-admin-menu.php:10
+msgid "Backup"
+msgstr ""
+
+#: admin/templates/mighty-admin-backup.php:37
+msgid "Backup Files"
+msgstr ""
+
+#: admin/templates/mighty-admin-backup.php:44
+msgid "NO BACKUP FILE FOUND !"
+msgstr ""
+
+#: admin/templates/mighty-admin-backup.php:54
+msgid "Download"
+msgstr ""
+
+#: admin/templates/mighty-admin-menu.php:7
+msgid "Auto Scan"
+msgstr ""
+
+#: admin/templates/mighty-admin-menu.php:8
+msgid "Manual Scan"
+msgstr ""
+
+#: admin/templates/mighty-admin-menu.php:9
+msgid "Trash"
+msgstr ""
+
+#: admin/templates/mighty-admin-menu.php:11
+msgid "About"
+msgstr ""
+
+#: admin/templates/mighty-admin-result.php:19
+#: admin/templates/mighty-admin-trash.php:41
+msgid "Files Available"
+msgstr ""
+
+#: admin/templates/mighty-admin-result.php:24
+msgid "Found in Just"
+msgstr ""
+
+#: admin/templates/mighty-admin-result.php:24
+msgid "Seconds"
+msgstr ""
+
+#: admin/templates/mighty-admin-result.php:112
+#: admin/templates/mighty-admin-trash.php:117
+msgid "File Name"
+msgstr ""
+
+#: admin/templates/mighty-admin-result.php:113
+#: admin/templates/mighty-admin-trash.php:118
+msgid "File Type"
+msgstr ""
+
+#: admin/templates/mighty-admin-result.php:114
+#: admin/templates/mighty-admin-trash.php:119
+msgid "File Size"
+msgstr ""
+
+#: admin/templates/mighty-admin-scan.php:40
+msgid "See How Mighty Works"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mighty Media Cleaner"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://pixflow.net/mighty/plugin-name-uri/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A powerful & smart plugin to scan and detect unused media files on your "
+"WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pixflow"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pixflow.net/"
+msgstr ""

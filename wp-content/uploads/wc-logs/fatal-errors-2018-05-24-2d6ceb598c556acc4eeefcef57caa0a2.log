@@ -1,0 +1,37 @@
+2018-05-24T14:03:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-05-24T14:05:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-05-24T14:06:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-05-24T14:13:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-05-24T14:14:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-05-24T18:56:37+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on boolean in C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\templates\single-product\rating.php:29
+Stack trace:
+#0 C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\includes\wc-core-functions.php(209): include()
+#1 C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1440): wc_get_template('single-product/...')
+#2 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\single-elements.php(101): woocommerce_template_single_rating()
+#3 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\single-elements.php(117): ElementorPro\Modules\Woocommerce\Widgets\Single_Elements->get_element()
+#4 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor\includes\base\widget-base.php(499): ElementorPro\Modules\Woocommerce\Widgets\Single_Elements->render()
+#5 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor\core\base\document.php(171): Elementor\Widget_B
+
+2018-05-24T18:56:49+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on boolean in C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\templates\single-product\rating.php:29
+Stack trace:
+#0 C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\includes\wc-core-functions.php(209): include()
+#1 C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1440): wc_get_template('single-product/...')
+#2 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\single-elements.php(101): woocommerce_template_single_rating()
+#3 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\single-elements.php(121): ElementorPro\Modules\Woocommerce\Widgets\Single_Elements->get_element()
+#4 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor\includes\db.php(299): ElementorPro\Modules\Woocommerce\Widgets\Single_Elements->render_plain_content()
+#5 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor\includes\db.php(305): Elementor\DB->render_elem
+
+2018-05-24T18:56:55+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on boolean in C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\templates\single-product\rating.php:29
+Stack trace:
+#0 C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\includes\wc-core-functions.php(209): include()
+#1 C:\xampp\htdocs\kingdom\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1440): wc_get_template('single-product/...')
+#2 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\single-elements.php(101): woocommerce_template_single_rating()
+#3 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\single-elements.php(121): ElementorPro\Modules\Woocommerce\Widgets\Single_Elements->get_element()
+#4 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor\includes\db.php(299): ElementorPro\Modules\Woocommerce\Widgets\Single_Elements->render_plain_content()
+#5 C:\xampp\htdocs\kingdom\wp-content\plugins\elementor\includes\db.php(305): Elementor\DB->render_elem
+
